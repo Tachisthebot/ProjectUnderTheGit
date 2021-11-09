@@ -1,5 +1,3 @@
 public class FeatureE {
-    public static void main(String[] args) {
-        System.out.println("creating a conflict");
-    }
+    public static void main(String[] args) {}
 }
