@@ -1,3 +1,4 @@
-public class FeatureE {
-    public static void main(String[] args) {}
+public class FeatureE { public static void main(String[] args) {
+
+    }
 }
